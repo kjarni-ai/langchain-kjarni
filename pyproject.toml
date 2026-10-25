@@ -20,7 +20,7 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://kjarni.ai"
-Source = "https://github.com/olafurjohannsson/langchain-kjarni"
+Source = "https://github.com/kjarni-ai/langchain-kjarni"
 Documentation = "https://kjarni.ai/docs/"
 
 [project.optional-dependencies]
